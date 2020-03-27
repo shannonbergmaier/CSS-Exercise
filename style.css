@@ -1,0 +1,66 @@
+body {
+	margin: 0px;
+}
+
+.wrapper{
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.firstRow {
+	width: 100%;
+	height: 300px;
+	margin-top: 50px;
+}
+
+.secondRow {
+	width: 100%;
+	height: 550px;
+	margin-top: 50px;
+}
+
+.thirdRow {
+	width: 100%;
+	height: 550px;
+	margin-top: 50px;
+}
+
+.orangeBox {
+	width: 1200px;
+	height: 300px;
+	background-color: #fe6e49;
+	position: relative;
+}
+
+.yellowBox {
+	width: 570px;
+	height: 260px;
+	background-color: #f1be51;
+	position: absolute;
+	right: 20px;
+	top: 20px;
+}
+
+.blueBox {
+	width: 590px;
+	height: 550px;
+	background-color: #1e70bb;
+	float: left;
+}
+
+li {
+	width: 590px;
+	height: 150px;
+	margin-bottom: 50px;
+	display: inline-block;
+	margin-left: 20px;
+	float: left;
+	background-color: #bb88b7;
+}
+
+.tealBox {
+	width: 600px;
+	height: 400px;
+	background-color: #7bcbb4;
+	
+}
